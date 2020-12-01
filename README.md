@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](https://raw.githubusercontent.com/TechWaker/TechWaker/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <!--
 **TechWaker/TechWaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
