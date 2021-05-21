@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<a href="https://twitter.com/imthepk">
-<img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwaker&theme=dark&hide_langs_below=1" />
 
 
 
