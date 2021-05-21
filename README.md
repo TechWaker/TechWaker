@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+<a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwaker&theme=dark&hide_langs_below=1" />
-
-
-
-
+</a>
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=techwaker&show_icons=true&theme=dark&line_height=27" alt="github stats"/>
+</a>
 <!--
 **TechWaker/TechWaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
