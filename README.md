@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![](https://raw.githubusercontent.com/TechWaker/TechWaker/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://twitter.com/imthepk">
+<img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+
 
 
 <!--
