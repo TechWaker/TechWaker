@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://instagram.com/techwaker">
+  <img align="left" alt="Instagram" width="24px" src="Social-icons/instagram.png" />
+</a>
+<a href="https://instagram.com/techwaker">
+  <img align="left" alt="Instagram" width="26px" src="Social-icons/facebook.png" />
+</a>
+
+</br>
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwaker&theme=dark&hide_langs_below=1" />
 </a>
