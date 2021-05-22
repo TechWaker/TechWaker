@@ -6,7 +6,16 @@
 <a href="https://instagram.com/techwaker">
   <img align="left" alt="Instagram" width="26px" src="Social-icons/facebook.png" />
 </a>
-
+<a href="https://instagram.com/techwaker">
+  <img align="left" alt="Instagram" width="26px" src="Social-icons/twitter.png" />
+</a>
+<a href="https://instagram.com/techwaker">
+  <img align="left" alt="Instagram" width="26px" src="Social-icons/linkedin.png" />
+</a>
+<a href="https://instagram.com/techwaker">
+  <img align="left" alt="Instagram" width="26px" src="Social-icons/global.png" />
+</a>
+</br>
 </br>
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techwaker&theme=dark&hide_langs_below=1" />
